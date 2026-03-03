@@ -1,3 +1,6 @@
+ v2.0.1  kochangsoo/QBC-Non-Markovian-Extended-Lorenz-System: v2.0.1
+ DOI: 10.5281/zenodo.18843603
+
 # QBC: Non-Markovian Extended Lorenz System — Simulation Code
 
 Reproducibility code for:
