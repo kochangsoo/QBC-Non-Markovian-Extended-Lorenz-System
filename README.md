@@ -5,7 +5,9 @@
 
 Reproducibility code for:
 
-> **Ko, C.** (2026). "A Minimal Non-Markovian Lorenz-Like Model for a Quantum Bounce Core: Dynamical Diagnostics for the Cosmic Dipole Anomaly." *Chaos, Solitons & Fractals*.
+> **Ko, C.** (2026). "A Minimal Non-Markovian Lorenz-Like Model for a QBC-Inspired Bounce Core:
+Dynamical Diagnostics for the Cosmic Dipole Anomaly
+." *Chaos, Solitons & Fractals*.
 
 ## Model
 
@@ -75,12 +77,12 @@ Results are saved to `results/` (JSON) and `figures/` (PNG + PDF).
 | File | Manuscript |
 |------|-----------|
 | `fig4_bifurcation_k0` | Fig. 4 |
-| `fig4a_bifurcation_3panel` | Fig. 4a |
-| `fig4b_overlay_lyapunov` | Fig. 4b |
-| `fig5_lyapunov` | Fig. 5 |
-| `fig6_timeseries` | Fig. 6 |
-| `fig7_hopf_boundary` | Fig. 7 |
-| `fig8_ensemble_histograms` | Fig. 8 |
+| `fig5_bifurcation_3panel` | Fig. 5 |
+| `fig6_overlay_lyapunov` | Fig. 6 |
+| `fig7_lyapunov` | Fig. 7 |
+| `fig8_timeseries` | Fig. 8 |
+| `fig9_hopf_boundary` | Fig. 9 |
+| `fig10_ensemble_histograms` | Fig. 10 |
 | `poincare_sections` | Supplementary |
 
 ### Data
